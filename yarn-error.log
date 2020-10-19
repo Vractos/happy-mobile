@@ -1,8 +1,8 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Users\paulo\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add axios
+  C:\Program Files\nodejs\node.exe C:\Users\paulo\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add expo-image-picker@~9.1.0
 
 PATH: 
-  C:\Python38\Scripts\;C:\Python38\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\paulo\AppData\Local\Microsoft\WindowsApps;C:\Users\paulo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\paulo\AppData\Roaming\npm;C:\src\flutter\bin;C:\Users\paulo\AppData\Local\Programs\Python\Python38\Scripts
+  C:\Python38\Scripts\;C:\Python38\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\paulo\AppData\Local\Microsoft\WindowsApps;C:\Users\paulo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\paulo\AppData\Roaming\npm;C:\src\flutter\bin;C:\Users\paulo\AppData\Local\Programs\Python\Python38\Scripts;C:\Users\paulo\AppData\Local\Yarn\bin;
 
 Yarn version: 
   1.22.4
@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: EPERM: operation not permitted, unlink 'C:\Users\paulo\Desktop\happy-mobile\node_modules\@babel\generator\node_modules\.bin'
+  Error: EPERM: operation not permitted, unlink 'C:\Users\paulo\Desktop\happy-mobile\node_modules\axios\lib\adapters'
 
 npm manifest: 
   {
